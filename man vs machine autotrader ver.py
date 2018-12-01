@@ -2,7 +2,7 @@
 """
 Created on Sat Nov  3 21:42:40 2018
 
-@author: Alan Jerry Pan, CPA, CSC
+@author: Alan Jerry Pan, CPA, CSc student
 @affiliation: Shanghai Jiaotong University
     
 MAN VS MACHINE: AUTOTRADER VERSION

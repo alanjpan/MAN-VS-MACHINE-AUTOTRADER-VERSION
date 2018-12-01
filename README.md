@@ -1,7 +1,7 @@
 # MAN-VS-MACHINE-AUTOTRADER-VERSION
 Genres: RPG, trading, comedy, horror, educational
 
-@author: Alan Jerry Pan, CPA, CSC
+@author: Alan Jerry Pan, CPA, CSc student
 @affiliation: Shanghai Jiaotong University
 
 Desription: MAN VS MACHINE: AUTOTRADER VERSION is usually not the role playing 
